@@ -25,3 +25,5 @@ Para compilar : gcc *.c -o Output
 Para Correr : ./Output
 
 NOTA: Depois de correr pode colar o conteudo do ficheiro teste ou teste2. Estes ficheiros contêm um conjunto de instruções em codigo de 3 endereços
+
+NOTA2: O programa retorna o que é pedido, normalmente o argumento do comando escrever(arg).
