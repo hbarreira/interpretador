@@ -1,0 +1,4 @@
+ler(k);
+p = 2 + k;
+escrever(p);
+quit;
